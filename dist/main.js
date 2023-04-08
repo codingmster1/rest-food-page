@@ -1,0 +1,1 @@
+console.log("this a statment of purpose ");

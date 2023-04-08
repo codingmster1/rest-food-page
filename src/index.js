@@ -1,1 +1,0 @@
-console.log("file from ./src/index.js");
