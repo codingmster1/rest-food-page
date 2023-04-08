@@ -1,0 +1,1 @@
+console.log("this a statment laughs in whatever whatever");

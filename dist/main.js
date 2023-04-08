@@ -1,1 +1,1 @@
-console.log("this a statment of purpose ");
+console.log("this a statment laughs in whatever whatever");
